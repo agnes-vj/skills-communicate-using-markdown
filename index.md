@@ -3,8 +3,8 @@
 ###### Lets get started
 ![Image of Female Coder Cat](https://octodex.github.com/images/femalecodertocat.png)
 ``` java
-class MyNumbers{
-public static void main(args[] arg){
+public class MyNumbers{
+public static void main(String[] arg){
   int a=1, b=2;
   System.out.println("A and B value " + a + "  " +b);
  }
